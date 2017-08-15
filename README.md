@@ -18,8 +18,8 @@ A few tips, tricks, and some rules for recruiters when posting to Denver Devs Sl
 * Make anyone sign an NDA with you or exclusivity -- if you do this, you will be shamed out of the Denver metro area
 * Involve yourself in engineering politics -- the status quo today is usually not the money maker tomorrow so it's not always to your benefit to do exactly what the client/HM wants
 
-## Definitley don't do these:
+## Definitely don't do these:
 * Spam -- Posting more than once a day, or posting the same thing every day, will get your posts deleted. Let your posts breathe. 
 * Compete -- We know recruiting is your job, don't try to out-post / out compete other recruiters in the channel. It's gross. 
 * Get off topic -- Keep gig openings to #topic-gigs only. 
-* DM members (unless they say you can) -- Don't engage in private conversations with members unless their post explicietly states something about DM'ing them, or unless they've given you permission to do so before. This is our happy space. 
+* DM members (unless they say you can) -- Don't engage in private conversations with members unless their post explicitly states something about DM'ing them, or unless they've given you permission to do so before. This is our happy space. 
